@@ -7,7 +7,7 @@ main{
 margin: auto;
 width: 45%;
 }
-main img{
+main img, iframe{
     border-radius: 10px;
     width: 100%;
 }
@@ -15,8 +15,11 @@ main img{
     color: brown;
 }
 .header{
-    background-color:rgba(175, 219, 103, 0.158);
+    background-color:rgba(209, 218, 112, 0.075);
     margin-bottom: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(15, 58, 15);
 }
 #title{
     text-align: center;
