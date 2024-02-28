@@ -1,13 +1,24 @@
 .logo{
 text-align:center;
-width: 50%;
 margin-left: auto;
 margin-right: auto;
 }
 main{
 margin: auto;
-width: 40%;
+width: 45%;
 }
 main img{
     border-radius: 10px;
+    width: 100%;
+}
+.redtext{
+    color: brown;
+}
+.header{
+    background-color:rgba(175, 219, 103, 0.158);
+    margin-bottom: 5%;
+}
+#title{
+    text-align: center;
+    font-size:2.6em;
 }
