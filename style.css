@@ -1,0 +1,13 @@
+.logo{
+text-align:center;
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+}
+main{
+margin: auto;
+width: 40%;
+}
+main img{
+    border-radius: 10px;
+}
